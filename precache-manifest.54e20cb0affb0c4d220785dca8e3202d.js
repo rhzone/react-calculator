@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/react-calculator/static/css/main.fb06f182.chunk.css"
   },
   {
-    "revision": "b1a4bf57aac78e233d3be0744378e775",
+    "revision": "4469638cff4228f80535b1616df4f4a4",
     "url": "/react-calculator/index.html"
   }
 ];
